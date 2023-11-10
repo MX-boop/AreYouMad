@@ -1,3 +1,5 @@
+# Go Look At [AreYouMadV2](https://github.com/MX-boop/AreYouMadV2)
+
 # AreYouMad?
 
 A powerful python script to find toxic messages using TensorFlow.
