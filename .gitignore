@@ -10,3 +10,6 @@ Thumbs.db
 
 Main/OrganizedDataToxic/*
 .vscode/*
+*.ipynb_checkpoints/*
+*.keras
+*.h5
